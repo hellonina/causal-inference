@@ -1,1 +1,1 @@
-# causal-inference
+# IDS 701 FINAL PROJECT
